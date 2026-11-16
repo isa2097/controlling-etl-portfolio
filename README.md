@@ -77,7 +77,7 @@ Based on the analytical SQL queries (`controlling_analysis.sql`) and the Power B
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/isa2097/controlling-etl-portfolio/tree/main
+   git clone https://github.com
    cd controlling-etl-portfolio
    ```
 2. **Install required Python packages:**
